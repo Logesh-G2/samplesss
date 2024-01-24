@@ -1,1 +1,2 @@
-this is the sample projet for learniig ethc[
+-i am going to change the entir e read me file int thw sampless 
+:x-so i can  get some hands on in github 
